@@ -1,0 +1,2 @@
+# Starlight Tracker API
+A high-performance API for tracking celestial objects. To get started, run `npm install` followed by `node src/index.js`. See the [API Docs](https://github.com/starlight-tracker-api/docs) for more information.
